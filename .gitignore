@@ -1,0 +1,18 @@
+# Vivado / xsim 中间产物
+_sim/
+_lint/
+*.jou
+*.log
+*.str
+*.pb
+*.rpx
+*.wdb
+.Xil/
+_*_build/
+
+# Python
+__pycache__/
+*.pyc
+
+# The design report is delivered inside the submission package only, not in the public repo
+report/
