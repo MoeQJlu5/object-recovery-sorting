@@ -13,6 +13,14 @@
 - **物理闭环**：识别结果驱动三路 SG90 舵机，在传送带上按类别实际分拣，而非仅屏幕演示。
 - **工程严谨**：Verilog RTL + Vitis HLS + PYNQ Python 三端完整源码、各级 testbench、可复现构建脚本（tcl）、逐文件 MD5 校验、6 份可复用技能包（`skill/`）。
 
+## 🎬 在线演示视频
+
+▶️ **完整闭环实测**：传送带动态拍摄 → 定位 → CNN 识别 → 三路舵机物理分拣
+
+[![Demo on Bilibili](https://img.shields.io/badge/Demo-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV17HyzzqE7t/)
+
+B站链接：https://www.bilibili.com/video/BV17HyzzqE7t/
+
 ---
 
 ## 0 这个包是什么
